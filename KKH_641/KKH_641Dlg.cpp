@@ -300,6 +300,7 @@ void CKKH_641Dlg::OnClickedButtonBuy641()
 {
 	// TODO: 여기에 컨트롤 알림 처리기 코드를 추가합니다.
 	UpdateData(TRUE);
+	int a;
 	m_pSet.AddNew();
 	m_pSet.m_Or_Id = m_strId_641;
 	m_pSet.m_Or_Name = m_strName_641;
