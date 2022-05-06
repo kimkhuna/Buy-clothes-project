@@ -1,6 +1,10 @@
 # Buy-clothes-project
 
+
 C++ MFC를 이용한 옷 구매 프로그램입니다.
+
+
+
 
 ![메인](https://user-images.githubusercontent.com/45312005/167064836-cb1cd931-76b2-46bc-aac5-bd9afc7aa779.PNG)
 
