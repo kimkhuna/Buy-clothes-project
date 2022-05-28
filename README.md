@@ -5,6 +5,7 @@ C++ MFC를 이용한 옷 구매 프로그램입니다.
 
 - C:\ 에 Photo.zip을 풀어서 위치시켜야됩니다.
 - ODBC 파일 이름은 ORDER_DB입니다.
+- Visual Studio 2015에서만 호환이 가능합니다.
 
 
 
